@@ -259,7 +259,7 @@ nav a:focus {
 	padding: 4em;
 	width: 100vw;
 	margin-left: -2.5%;
-	outline: 2px solid red;
+	outline: 2px solid #00ff6c;
 	outline-offset: -2.5em;
 	color: #FFF;
 	position: relative;
