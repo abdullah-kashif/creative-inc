@@ -236,7 +236,7 @@ nav a:focus {
 =================== */
 
 .home-hero {
-	background-image: url(../img/hero-bg.jpg);
+	background-image: url(./img/hero-bg.jpg);
 	background-size: cover;
 	background-position: center;
 	padding: 10em 0;
@@ -259,7 +259,7 @@ nav a:focus {
 	padding: 4em;
 	width: 100vw;
 	margin-left: -2.5%;
-	outline: 2px solid #00ff6c;
+	outline: 2px solid red;
 	outline-offset: -2.5em;
 	color: #FFF;
 	position: relative;
