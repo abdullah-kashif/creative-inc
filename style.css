@@ -296,7 +296,7 @@ nav a:focus {
 	}
 
 	.home-about {
-		background-image: url(./img/binary-code-background-abstract-technology-digital-binary-data-and-secure-data-concept-free-photo.jpg );
+		background-image: url(./img/who-we-are.jpg);
 		background-repeat: no-repeat;
 		padding-bottom: 10em;
 	}
@@ -330,6 +330,8 @@ nav a:focus {
 }
 
 .port-item {
+	display: flex;
+	flex-direction: column;
 	margin: 0;
 	position: relative;
 }
@@ -373,8 +375,7 @@ nav a:focus {
 	.port-item:hover .port-desc {
 		transform: translateY(0%);
 	}
-}
-
+} 
 
 /* CTA
 =================== */
